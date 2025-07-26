@@ -8,7 +8,6 @@ This project was developed as part of a practical application of Agile methodolo
 ## 🚀 Sprint Scope
   
 - **Goal:** Improve the UX of an existing e-commerce/web prototype
-  Demo:- https://demowebshop.tricentis.com/
 - **Methodology:** Agile - Scrum   
 - **Tools Used:** Jira (Sprint board), GitHub, Google Form ,  Notion , Canva
 
