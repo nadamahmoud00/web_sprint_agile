@@ -24,7 +24,7 @@ Sprint planning was managed through Jira. We used epics, user stories, and tasks
 
 - **Backlog organized** into Epics and linked to user stories.
 - **Tasks assigned** to team members with story points.
-- - **Timeline created** for each Epic to manage progress and deadlines.
+- **Timeline created** for each Epic to manage progress and deadlines.
 - Used **Scrum board** to manage daily progress and standups.
 - Sprint backlog prioritized based on user pain points and feasibility.
 
